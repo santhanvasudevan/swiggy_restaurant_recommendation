@@ -29,6 +29,7 @@ This is a **Restaurant Recommendation System** built using **Streamlit** and **S
 ├── clean_and_encode_swiggydata.ipynb                # Jupyter notebook file to generate cleaned_data.txt and encoded_data.txt from input data(swiggy.csv)
 ├── requirements.txt                                 # Required Python dependencies
 ├── README.md                                        # Project documentation
+├── LICENSE                                          # MIT License
 ```
 
 ## ⚡ Installation & Setup
