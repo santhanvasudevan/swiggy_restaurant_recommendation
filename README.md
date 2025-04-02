@@ -22,6 +22,9 @@ This is a **Restaurant Recommendation System** built using **Streamlit** and **S
 │   ├── cleaned_data.csv                             # Contains restaurant details cleaned by using 
 │   ├── encoded_data.csv                             # Encoded features for similarity computation generated using 
 │   ├── swiggy.csv                                   # Input data (Extract the data.7z file to get this file)
+├── screenshots
+│   ├── screenshot1.png                              # Example 1
+│   ├── screenshot1.png                              # Example 2
 ├── restaurant_recommendation_app.py                 # Main application python file (takes cleaned_data.txt and encoded_data.txt as input)
 ├── clean_and_encode_swiggydata.ipynb                # Jupyter notebook file to generate cleaned_data.txt and encoded_data.txt from input data(swiggy.csv)
 ├── requirements.txt                                 # Required Python dependencies
@@ -58,8 +61,11 @@ Ensure the dataset files (`cleaned_data.csv` and `encoded_data.csv`) are availab
 Example 1:
 ![swiggy_restaurant_recommendation](screenshots/screenshot1.png)
 
+---
 Example 2:
 ![swiggy_restaurant_recommendation](screenshots/screenshot2.png)
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
