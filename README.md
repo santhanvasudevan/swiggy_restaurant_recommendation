@@ -55,7 +55,11 @@ streamlit run restaurant_recommendation_app.py
 Ensure the dataset files (`cleaned_data.csv` and `encoded_data.csv`) are available inside the `data` folder. Modify the file paths if needed.
 
 ## 📌 Example Screenshot
+Example 1:
+![swiggy_restaurant_recommendation](screenshots/screenshot1.png)
 
+Example 2:
+![swiggy_restaurant_recommendation](screenshots/screenshot2.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
